@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Field Code</title>
+      <link>https://quartz.jzhao.xyz</link>
+      <description>Last 10 notes on Field Code</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Genera una clave API de Gemini</title>
+    <link>https://quartz.jzhao.xyz/post_1</link>
+    <guid>https://quartz.jzhao.xyz/post_1</guid>
+    <description><![CDATA[ En este tutorial vamos a generar una clave de acceso a la API de Gemini. ]]></description>
+    <pubDate>Thu, 23 Oct 2025 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Glosario</title>
+    <link>https://quartz.jzhao.xyz/glosario</link>
+    <guid>https://quartz.jzhao.xyz/glosario</guid>
+    <description><![CDATA[ Antes de empezar a explorar los tutoriales y experimentos de Field Code, vale la pena detenerse un momento en las palabras. ]]></description>
+    <pubDate>Wed, 22 Oct 2025 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Bienvenid@ a Field Code</title>
+    <link>https://quartz.jzhao.xyz/</link>
+    <guid>https://quartz.jzhao.xyz/</guid>
+    <description><![CDATA[ Field Code IA, código y otras tecnologías para antropólogos La antropología siempre ha explorado los márgenes de lo humano: los significados, las prácticas, las relaciones y los sistemas que nos sostienen. ]]></description>
+    <pubDate>Tue, 21 Oct 2025 00:00:00 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
